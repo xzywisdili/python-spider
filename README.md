@@ -1,3 +1,5 @@
-# My Awesome Book
+# Python 爬虫学习笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这里记录了我自学 Python 爬虫过程中的学习笔记。
+
+开始学习时间：2019年1月31日
