@@ -1,4 +1,4 @@
-# BeautifulSoup 库的基本用法
+# 1.3 BeautifulSoup 库的基本用法
 
 ## BeautifulSoup 库提供的解析器
 

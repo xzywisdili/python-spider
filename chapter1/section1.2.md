@@ -1,4 +1,4 @@
-# Requests 库的基本用法
+# 1.2 Requests 库的基本用法
 
 `requests`库是 Python 写成的易用的 HTTP 库。通过一个简单的例子了解 `requests` 库的基本用法，这里传入百度的网址，并展示了应答的基本信息（类型、状态码等等）：
 
